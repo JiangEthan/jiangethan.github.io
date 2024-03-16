@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chatsoragpt.com/sitemap.xml
+Sitemap: https://chatsoragpt.com/baidusitemap.xml
